@@ -1,1 +1,1 @@
-git remote set-url origin https://<USERNAME>:<GIT TOKEN>@github.com:NoneeBots/Statistics.git
+git remote set-url origin https://<github username>:<github ssh token>@github.com/NoneeBots/Statistics.git
